@@ -1,0 +1,29 @@
+@media (max-width: 480px) {}
+
+@media (max-width: 576px) {}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {}
+
+@media (max-width: 991px) {
+    .mainn {
+        display: flex;
+        flex: 1;
+        background: #ffffff;
+        padding: 20px;
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {}
+
+@media only screen and (min-width: 576px) {}
+
+@media only screen and (min-width: 768px) {}
+
+@media only screen and (min-width: 991px) {}
+
+@media only screen and (min-width: 1200px) {}
+
+@media only screen and (max-width: 1200px) and (min-width: 991px) {}
+
+@media only screen and (max-width: 3640px) and (min-width: 1170px) {}
