@@ -339,7 +339,7 @@ article img {
 @media (max-width: 991px) {
     .mainn {
         flex-direction: column;
-        margin-top: 100px;
+        margin-top: 90px;
         padding: 0px;
     }
     .mainn>aside {
