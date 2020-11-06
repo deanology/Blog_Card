@@ -345,6 +345,9 @@ article img {
     .mainn>aside {
         flex: 0 0 100vw;
     }
+    header {
+        padding: 0;
+    }
     .footer {
         flex-direction: column;
         position: relative;
